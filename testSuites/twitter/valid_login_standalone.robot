@@ -3,7 +3,7 @@ Library           Selenium2Library
 
 *** Variables ***
 ${SERVER}         twitter.com
-${BROWSER}        Chrome
+${BROWSER}        Firefox
 # Yes, there's a typo in the username, I know :D.
 ${VALID USER}     AutomationStuf1
 ${VALID PASSWORD}   Abcd123
