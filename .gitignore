@@ -143,3 +143,8 @@ Procfile
 velocity.log.*
 **/src/main/webapp/META-INF
 .vagrant
+
+#Robot Framework reports
+log.html
+output.xml
+report.html
